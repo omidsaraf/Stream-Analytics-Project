@@ -51,6 +51,3 @@ The primary goal of this project is to set up a robust data pipeline that:
 - **Query Data**: Run queries in Azure Synapse to verify that the data is correctly stored and accessible.
 - **Analyze Results**: Ensure the data meets the expected format and content requirements.
 
----
-
-Feel free to adjust the details and add any specific configurations or code snippets relevant to your project. This structure should help you present your project clearly and professionally on GitHub. If you need further assistance, just let me know!
