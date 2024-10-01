@@ -55,8 +55,6 @@ The primary goal of this project is to set up a robust data pipeline that:
 - **Query Data**: Run queries in Azure Synapse to verify that the data is correctly stored and accessible.
 - **Analyze Results**: Ensure the data meets the expected format and content requirements.
 
-## Power BI (Visualisation)
 
-![image](https://github.com/user-attachments/assets/e7d15a1a-5d79-47aa-a457-140566e6f430)
 
 
