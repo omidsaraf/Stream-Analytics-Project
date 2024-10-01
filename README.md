@@ -1,5 +1,7 @@
 
-# Stream Analytics Deployment with Azure Synapse, Event Hub, and Azure Stream Analytics
+# Stream Analytics Project
+#### Deployment with Azure Synapse, Event Hub, and Azure Stream Analytics
+#### Streams diagnostic logs Analytics project
 
 ### Overview
 This project demonstrates the deployment and integration of Azure Synapse, Event Hub, and Azure Stream Analytics to process and analyze streaming data from Azure Data Lake Gen2. The goal is to create a seamless pipeline that ingests diagnostic logs, processes them in real-time, and stores the results in a dedicated SQL pool for further analysis.
