@@ -1,6 +1,6 @@
 
 # Stream Analytics Project
-Streams diagnostic logs Analytics
+Storage Diagnostic Logs Analytics
 
 ![image](https://github.com/user-attachments/assets/17818a54-e908-4415-88af-a60671adaa8c)
 
