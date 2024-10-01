@@ -2,7 +2,8 @@
 # Stream Analytics Project
 Storage Diagnostic Logs Analytics
 
-![image](https://github.com/user-attachments/assets/17818a54-e908-4415-88af-a60671adaa8c)
+![image](https://github.com/user-attachments/assets/a3927806-0e98-45f5-ba5f-e8133e9f9b07)
+
 
 
 ### Overview
