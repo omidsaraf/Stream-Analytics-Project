@@ -14,3 +14,18 @@ For our JSON file that comes as a stream from the Storage Diagnostic Log, we nee
 - Specify each element and its belonging layer for writing the SELECT columns
 
 ![image](https://github.com/user-attachments/assets/d831c5b3-e69e-4e57-a1fa-a75eaed30db6)
+
+````sql
+SELECT 
+    Records.ArrayValue.category AS Category,
+    Records.ArrayValue.operationName AS OperationName,
+    Records.ArrayValue.statusText AS StatusText,
+    Records.ArrayValue.properties.objectkey AS ObjectKey,
+    Records.ArrayValue.[identity].type AS IdentityType,
+    Records.ArrayValue.[identity].tokenHash AS TokenHash
+INTO 
+    BlobDiagnostics
+FROM 
+    [blobhub] bh
+CROSS APPLY 
+    GetArrayElements(bh.records) AS Records;
