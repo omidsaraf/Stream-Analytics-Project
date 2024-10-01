@@ -7,5 +7,5 @@ Since the Storage Account consists of four sections, we only want to have Diagno
 ![image](https://github.com/user-attachments/assets/72c46dc8-cd0b-439b-b41a-bf5ff0adbbe7)
 
 
-![image](https://github.com/user-attachments/assets/3b5ad7fa-baf9-4148-800f-650731d9faff)
+### Define Sink Storage
 ![image](https://github.com/user-attachments/assets/fbf38870-228d-4ee1-85c9-164eab641d6d)
