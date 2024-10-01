@@ -1,4 +1,5 @@
 
+### Choose Diagostic setting within the Azure Storage Account
 
 ![image](https://github.com/user-attachments/assets/ff2ce314-4ac4-4f07-b958-cf7cc534b491)
 
